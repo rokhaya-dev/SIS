@@ -76,10 +76,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'ssnodb',
+    'hostname' => 'db-mysql-fra1-08748-do-user-7459181-0.b.db.ondigitalocean.com',
+    'username' => 'doadmin',
+    'password' => 'tmicrtsogxbz19yu',
+    'database' => 'defaultdb',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
