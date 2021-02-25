@@ -76,13 +76,13 @@ $query_builder = TRUE;
 
 $db['default'] = array(
   'dsn' => '',
-  'hostname' => 'db-mysql-fra1-08748-do-user-7459181-0.b.db.ondigitalocean.com',
-  'username' => 'doadmin',
-  'password' => 'tmicrtsogxbz19yu',
-  'database' => 'defaultdb',
+  'hostname' => '',
+  'username' => '',
+  'password' => '',
+  'database' => '',
   'dbdriver' => 'mysqli',
   'dbprefix' => '',
-  'pconnect' => TRUE,
+  'pconnect' => FALSE,
   'db_debug' => (ENVIRONMENT !== 'production'),
   'cache_on' => FALSE,
   'cachedir' => '',
